@@ -1,0 +1,23 @@
+{
+  "name": "parse-katana-firebase-reports",
+  "version": "1.0.0",
+  "description": "Search the downloaded reports for whatever we want",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/byuitechops/parse-katana-firebase-reports.git"
+  },
+  "author": "Seth Childers",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/byuitechops/parse-katana-firebase-reports/issues"
+  },
+  "homepage": "https://github.com/byuitechops/parse-katana-firebase-reports#readme",
+  "dependencies": {
+    "d3-dsv": "^1.1.1"
+  }
+}
